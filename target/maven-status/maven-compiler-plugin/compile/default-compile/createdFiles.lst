@@ -1,0 +1,5 @@
+com\london\spring\domain\City.class
+com\london\spring\domain\Country.class
+com\london\spring\domain\Concert.class
+com\london\spring\domain\Genre.class
+com\london\spring\domain\Artist.class
